@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034951922914",
+    "project_id": "firstbirthdayappct",
+    "storage_bucket": "firstbirthdayappct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034951922914:android:8dcb3807b62a924567fabb",
+        "android_client_info": {
+          "package_name": "com.example.birthdaygreet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034951922914-ej39r1p1rg35988pd10mnggng067mh20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIe3fpjAPZv0YO6-9YiONH0TV_70arTjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034951922914-ej39r1p1rg35988pd10mnggng067mh20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
