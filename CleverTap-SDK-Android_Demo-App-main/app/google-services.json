@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531741032688",
+    "project_id": "saiclevertapdemoandroidapp",
+    "storage_bucket": "saiclevertapdemoandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531741032688:android:ce489fc00c2fdc6d9ac235",
+        "android_client_info": {
+          "package_name": "com.example.saiclevertapdemoandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531741032688-ivu2u8e75iullknpccv4dkut0d5ub2o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwaRwLZTZMRmCPmUnN5_N5QW7ZggeUPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531741032688-ivu2u8e75iullknpccv4dkut0d5ub2o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
